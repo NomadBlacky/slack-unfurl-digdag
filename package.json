@@ -1,0 +1,16 @@
+{
+  "name": "slack-unfurl-digdag",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {},
+  "author": "NomadBlacky",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^2.0.1",
+    "aws-serverless-express": "^3.3.8"
+  },
+  "devDependencies": {
+    "serverless": "^1.68.0",
+    "serverless-offline": "^5.12.1"
+  }
+}
